@@ -21,9 +21,9 @@ Writing cleaner and reusable functions
 📁 Project Structure
 
 /css
-  miniproject1.css
+  style.css
 
 /javascript
-  miniproject1.js
+  script.js
 
 index.html
